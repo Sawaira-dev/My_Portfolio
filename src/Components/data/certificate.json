@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "role": " MERN Stack Development",
+        "organisation": "BanoQabil",
+        "startDate": "Sep, 2023",
+        "location": " Karachi,Pakistan",
+        "imageSrc": "BanoQabil"
+    },
+    {
+        "id": 2,
+        "role": "Front-End / WordPress",
+        "organisation": "JDC",
+        "startDate": "Jan, 2024",
+        "location": " Karachi,Pakistan",
+        "imageSrc": "JDC"
+    },
+    {
+        "id": 3,
+        "role": "Front-End Development",
+        "organisation": "Coursera",
+        "startDate": "April, 2022",
+        "location": " Karachi,Pakistan",
+        "imageSrc": "Coursera"
+    },
+    {
+        "id": 4,
+        "role": " Start the UX Design Process",
+        "organisation": "Coursera",
+        "startDate": "Nov, 2022",
+        "location": " Karachi,Pakistan",
+        "imageSrc": "Coursera"
+    },
+    {
+        "id": 5,
+        "role": " Foundations of UX Design",
+        "organisation": "Coursera",
+        "startDate": "July, 2022",
+        "location": " Karachi,Pakistan",
+        "imageSrc": "Coursera"
+    },
+    {
+        "id": 6,
+        "role": "Promotional Video Using Canva",
+        "organisation": "Coursera",
+        "startDate": "Nov, 2022",
+        "location": " Karachi,Pakistan",
+        "imageSrc": "Coursera"
+      }
+]

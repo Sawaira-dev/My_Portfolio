@@ -1,0 +1,30 @@
+
+[
+  {
+    "id": 1,
+    "role": " Front-End React Developer",
+    "organisation": "Divine Knots",
+    "startDate": "April, 2024",
+    "endDate": "June",
+    "location": " Karachi,Pakistan",
+    "experiences": [
+      "Worked on Front-End",
+      "Worked on React "
+    ],
+    "imageSrc": "Divine Knots:"
+  },
+  
+  {
+      "id": 1,
+      "role": "    Graphic Designing Internship   ",
+      "organisation": "PTV",
+      "startDate": "july, 2024",
+      "endDate": "Present",
+      "location": " Karachi,Pakistan",
+      "experiences": [
+        "Worked on Adobe Photoshop",
+        "Worked on Adobe Premier"
+      ],
+      "imageSrc": "PTV"
+    }
+]
